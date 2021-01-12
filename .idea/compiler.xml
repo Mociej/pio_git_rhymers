@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Piogit2 to pokazywałem na zajęciach" />
         <module name="Piogit2" />
+        <module name="powp-rhymers" />
       </profile>
     </annotationProcessing>
   </component>
